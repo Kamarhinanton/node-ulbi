@@ -1,0 +1,19 @@
+{
+  "name": "anton-node-course",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "test.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "anton",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
